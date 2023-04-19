@@ -41,7 +41,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'clearbit-dev'
             artifactId = 'person-v2'
-            version = '1.0.1'
+            version = '1.0.2'
 
             from components.java
 
